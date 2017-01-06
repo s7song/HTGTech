@@ -148,7 +148,7 @@ jQuery(function ($) {
 		{
 			delay:9000,
 			startwidth:665,
-			startheight:470,
+			startheight:245,
 			hideThumbs:10,
 			navigationType:"none",
 			hideTimerBar:"on",
